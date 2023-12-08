@@ -4,7 +4,7 @@
 // 💻 [실습 프로젝트 03] 프로필 포트폴리오 앱 제작 / 홍드로이드 (12/7)
 
 // dart
-CanvasElement canvas = querySelector("#canvas");
+// CanvasElement canvas = querySelector("#canvas");
 
 import 'package:flutter/material.dart';
 // import 'package:url_launcher/url_launcher.dart';
